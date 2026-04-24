@@ -1,0 +1,927 @@
+[
+  {
+    "firstName": "Alice",
+    "lastName": "Mugisha",
+    "email": "alice.mugisha@email.com",
+    "headline": "Senior Backend Engineer - Node.js & TypeScript Expert",
+    "bio": "Passionate backend engineer with 6 years building scalable APIs and distributed systems across fintech and edtech.",
+    "location": "Kigali, Rwanda",
+    "skills": [
+      { "name": "Node.js", "level": "Expert", "yearsOfExperience": 6 },
+      { "name": "TypeScript", "level": "Expert", "yearsOfExperience": 5 },
+      { "name": "MongoDB", "level": "Advanced", "yearsOfExperience": 4 },
+      { "name": "REST APIs", "level": "Expert", "yearsOfExperience": 6 },
+      { "name": "Docker", "level": "Advanced", "yearsOfExperience": 3 },
+      { "name": "Redis", "level": "Intermediate", "yearsOfExperience": 2 }
+    ],
+    "experience": [
+      {
+        "company": "Andela",
+        "role": "Senior Backend Engineer",
+        "startDate": "2021-03",
+        "endDate": "Present",
+        "description": "Led backend architecture for a fintech platform serving 500k users. Reduced API latency by 40% through Redis caching.",
+        "technologies": ["Node.js", "TypeScript", "MongoDB", "Redis", "Docker"],
+        "isCurrent": true
+      },
+      {
+        "company": "MTN Rwanda",
+        "role": "Backend Developer",
+        "startDate": "2018-06",
+        "endDate": "2021-02",
+        "description": "Built and maintained mobile money APIs processing 1M+ transactions daily.",
+        "technologies": ["Node.js", "PostgreSQL", "REST APIs"],
+        "isCurrent": false
+      }
+    ],
+    "education": [
+      {
+        "institution": "University of Rwanda",
+        "degree": "Bachelor",
+        "fieldOfStudy": "Computer Science",
+        "startYear": 2014,
+        "endYear": 2018
+      }
+    ],
+    "projects": [
+      {
+        "name": "PayFlow API",
+        "description": "High-availability payment processing API handling 10k TPS with automatic failover.",
+        "technologies": ["Node.js", "TypeScript", "Redis", "MongoDB"],
+        "role": "Lead Engineer",
+        "link": "https://github.com/alice-mugisha/payflow",
+        "startDate": "2022-01",
+        "endDate": "2022-08"
+      }
+    ],
+    "certifications": [
+      { "name": "AWS Certified Developer", "issuer": "Amazon", "issueDate": "2022-05" }
+    ],
+    "languages": [
+      { "name": "English", "proficiency": "Fluent" },
+      { "name": "Kinyarwanda", "proficiency": "Native" }
+    ],
+    "availability": { "status": "Available", "type": "Full-time" },
+    "socialLinks": {
+      "github": "https://github.com/alice-mugisha",
+      "linkedin": "https://linkedin.com/in/alice-mugisha"
+    }
+  },
+  {
+    "firstName": "Bob",
+    "lastName": "Nkurunziza",
+    "email": "bob.nkurunziza@email.com",
+    "headline": "Mid-Level Backend Developer - REST APIs & MongoDB",
+    "bio": "Backend developer focused on building clean, maintainable APIs for SaaS products.",
+    "location": "Kigali, Rwanda",
+    "skills": [
+      { "name": "Node.js", "level": "Intermediate", "yearsOfExperience": 3 },
+      { "name": "MongoDB", "level": "Intermediate", "yearsOfExperience": 3 },
+      { "name": "Express.js", "level": "Advanced", "yearsOfExperience": 3 },
+      { "name": "JavaScript", "level": "Advanced", "yearsOfExperience": 4 },
+      { "name": "REST APIs", "level": "Intermediate", "yearsOfExperience": 3 }
+    ],
+    "experience": [
+      {
+        "company": "Irembo",
+        "role": "Backend Developer",
+        "startDate": "2022-01",
+        "endDate": "Present",
+        "description": "Developed government e-services APIs used by 2M+ Rwandan citizens.",
+        "technologies": ["Node.js", "MongoDB", "Express.js"],
+        "isCurrent": true
+      }
+    ],
+    "education": [
+      {
+        "institution": "AUCA",
+        "degree": "Bachelor",
+        "fieldOfStudy": "Software Engineering",
+        "startYear": 2017,
+        "endYear": 2021
+      }
+    ],
+    "projects": [
+      {
+        "name": "E-Services Gateway",
+        "description": "API gateway for Rwandan government digital services.",
+        "technologies": ["Node.js", "MongoDB", "Express.js"],
+        "role": "Developer",
+        "link": "https://github.com/bob-nkurunziza/eservices",
+        "startDate": "2022-03",
+        "endDate": "2022-10"
+      }
+    ],
+    "languages": [
+      { "name": "English", "proficiency": "Conversational" },
+      { "name": "Kinyarwanda", "proficiency": "Native" }
+    ],
+    "availability": { "status": "Open to Opportunities", "type": "Full-time" },
+    "socialLinks": {
+      "github": "https://github.com/bob-nkurunziza"
+    }
+  },
+  {
+    "firstName": "Carol",
+    "lastName": "Uwimana",
+    "email": "carol.uwimana@email.com",
+    "headline": "Lead Backend Engineer - Distributed Systems & Cloud",
+    "bio": "Lead engineer with 8 years experience designing fault-tolerant distributed systems for banking and insurance.",
+    "location": "Kigali, Rwanda",
+    "skills": [
+      { "name": "Node.js", "level": "Expert", "yearsOfExperience": 8 },
+      { "name": "TypeScript", "level": "Expert", "yearsOfExperience": 6 },
+      { "name": "MongoDB", "level": "Expert", "yearsOfExperience": 7 },
+      { "name": "Docker", "level": "Expert", "yearsOfExperience": 5 },
+      { "name": "Redis", "level": "Advanced", "yearsOfExperience": 4 },
+      { "name": "GraphQL", "level": "Advanced", "yearsOfExperience": 3 },
+      { "name": "Kubernetes", "level": "Intermediate", "yearsOfExperience": 2 }
+    ],
+    "experience": [
+      {
+        "company": "Equity Bank Rwanda",
+        "role": "Lead Backend Engineer",
+        "startDate": "2019-01",
+        "endDate": "Present",
+        "description": "Architected core banking APIs handling $500M in daily transactions. Led team of 8 engineers.",
+        "technologies": ["Node.js", "TypeScript", "MongoDB", "Docker", "Redis"],
+        "isCurrent": true
+      },
+      {
+        "company": "Bank of Kigali",
+        "role": "Senior Developer",
+        "startDate": "2016-04",
+        "endDate": "2018-12",
+        "description": "Built mobile banking backend serving 300k customers.",
+        "technologies": ["Node.js", "PostgreSQL", "REST APIs"],
+        "isCurrent": false
+      }
+    ],
+    "education": [
+      {
+        "institution": "University of Rwanda",
+        "degree": "Masters",
+        "fieldOfStudy": "Computer Science",
+        "startYear": 2014,
+        "endYear": 2016
+      },
+      {
+        "institution": "University of Rwanda",
+        "degree": "Bachelor",
+        "fieldOfStudy": "Computer Science",
+        "startYear": 2010,
+        "endYear": 2014
+      }
+    ],
+    "projects": [
+      {
+        "name": "Core Banking API v3",
+        "description": "Complete rewrite of core banking system with 99.99% uptime SLA.",
+        "technologies": ["Node.js", "TypeScript", "MongoDB", "Docker", "Kubernetes"],
+        "role": "Architect",
+        "link": "https://github.com/carol-uwimana/core-banking",
+        "startDate": "2020-01",
+        "endDate": "2021-06"
+      }
+    ],
+    "certifications": [
+      { "name": "AWS Solutions Architect", "issuer": "Amazon", "issueDate": "2021-03" },
+      { "name": "MongoDB Professional", "issuer": "MongoDB", "issueDate": "2020-08" }
+    ],
+    "languages": [
+      { "name": "English", "proficiency": "Fluent" },
+      { "name": "French", "proficiency": "Conversational" },
+      { "name": "Kinyarwanda", "proficiency": "Native" }
+    ],
+    "availability": { "status": "Available", "type": "Full-time" },
+    "socialLinks": {
+      "github": "https://github.com/carol-uwimana",
+      "linkedin": "https://linkedin.com/in/carol-uwimana",
+      "portfolio": "https://carol-uwimana.dev"
+    }
+  },
+  {
+    "firstName": "David",
+    "lastName": "Habimana",
+    "email": "david.habimana@email.com",
+    "headline": "Junior Backend Developer - Node.js Enthusiast",
+    "bio": "Fresh graduate eager to grow in backend development. Strong fundamentals in JavaScript and REST API design.",
+    "location": "Kigali, Rwanda",
+    "skills": [
+      { "name": "Node.js", "level": "Beginner", "yearsOfExperience": 1 },
+      { "name": "JavaScript", "level": "Intermediate", "yearsOfExperience": 2 },
+      { "name": "MongoDB", "level": "Beginner", "yearsOfExperience": 1 },
+      { "name": "Express.js", "level": "Beginner", "yearsOfExperience": 1 }
+    ],
+    "experience": [
+      {
+        "company": "Freelance",
+        "role": "Junior Developer",
+        "startDate": "2023-06",
+        "endDate": "Present",
+        "description": "Built small REST APIs for local businesses.",
+        "technologies": ["Node.js", "MongoDB", "Express.js"],
+        "isCurrent": true
+      }
+    ],
+    "education": [
+      {
+        "institution": "INES Ruhengeri",
+        "degree": "Bachelor",
+        "fieldOfStudy": "Information Technology",
+        "startYear": 2019,
+        "endYear": 2023
+      }
+    ],
+    "projects": [
+      {
+        "name": "Restaurant Booking API",
+        "description": "Simple REST API for restaurant table reservations.",
+        "technologies": ["Node.js", "MongoDB", "Express.js"],
+        "role": "Solo Developer",
+        "link": "https://github.com/david-habimana/restaurant-api",
+        "startDate": "2023-08",
+        "endDate": "2023-10"
+      }
+    ],
+    "languages": [
+      { "name": "English", "proficiency": "Conversational" },
+      { "name": "Kinyarwanda", "proficiency": "Native" }
+    ],
+    "availability": { "status": "Available", "type": "Full-time" },
+    "socialLinks": {
+      "github": "https://github.com/david-habimana"
+    }
+  },
+  {
+    "firstName": "Eve",
+    "lastName": "Nizeyimana",
+    "email": "eve.nizeyimana@email.com",
+    "headline": "Senior Full-Stack Engineer - Node.js, TypeScript & React",
+    "bio": "Full-stack engineer with strong backend focus. Built products used by 1M+ users across East Africa.",
+    "location": "Nairobi, Kenya",
+    "skills": [
+      { "name": "Node.js", "level": "Expert", "yearsOfExperience": 7 },
+      { "name": "TypeScript", "level": "Advanced", "yearsOfExperience": 5 },
+      { "name": "MongoDB", "level": "Advanced", "yearsOfExperience": 5 },
+      { "name": "REST APIs", "level": "Expert", "yearsOfExperience": 7 },
+      { "name": "React", "level": "Advanced", "yearsOfExperience": 4 },
+      { "name": "Docker", "level": "Intermediate", "yearsOfExperience": 2 }
+    ],
+    "experience": [
+      {
+        "company": "Safaricom",
+        "role": "Senior Engineer",
+        "startDate": "2020-05",
+        "endDate": "Present",
+        "description": "Built M-Pesa integration APIs used by 30M+ Kenyans. Mentored 5 junior engineers.",
+        "technologies": ["Node.js", "TypeScript", "MongoDB", "REST APIs"],
+        "isCurrent": true
+      },
+      {
+        "company": "Twiga Foods",
+        "role": "Backend Engineer",
+        "startDate": "2017-08",
+        "endDate": "2020-04",
+        "description": "Built supply chain management APIs for agricultural distribution.",
+        "technologies": ["Node.js", "MongoDB", "Express.js"],
+        "isCurrent": false
+      }
+    ],
+    "education": [
+      {
+        "institution": "University of Nairobi",
+        "degree": "Bachelor",
+        "fieldOfStudy": "Computer Science",
+        "startYear": 2013,
+        "endYear": 2017
+      }
+    ],
+    "projects": [
+      {
+        "name": "M-Pesa SDK",
+        "description": "Open source Node.js SDK for M-Pesa API integration with 2k+ GitHub stars.",
+        "technologies": ["Node.js", "TypeScript"],
+        "role": "Creator",
+        "link": "https://github.com/eve-nizeyimana/mpesa-sdk",
+        "startDate": "2021-01",
+        "endDate": "2021-06"
+      }
+    ],
+    "certifications": [
+      { "name": "Google Cloud Professional", "issuer": "Google", "issueDate": "2022-11" }
+    ],
+    "languages": [
+      { "name": "English", "proficiency": "Native" },
+      { "name": "Swahili", "proficiency": "Fluent" }
+    ],
+    "availability": { "status": "Open to Opportunities", "type": "Full-time" },
+    "socialLinks": {
+      "github": "https://github.com/eve-nizeyimana",
+      "linkedin": "https://linkedin.com/in/eve-nizeyimana"
+    }
+  },
+  {
+    "firstName": "Frank",
+    "lastName": "Bizimana",
+    "email": "frank.bizimana@email.com",
+    "headline": "Backend Engineer - GraphQL & Microservices",
+    "bio": "Specializes in GraphQL APIs and microservices architecture. 5 years building scalable backend systems.",
+    "location": "Kigali, Rwanda",
+    "skills": [
+      { "name": "Node.js", "level": "Advanced", "yearsOfExperience": 5 },
+      { "name": "TypeScript", "level": "Advanced", "yearsOfExperience": 4 },
+      { "name": "GraphQL", "level": "Expert", "yearsOfExperience": 4 },
+      { "name": "MongoDB", "level": "Advanced", "yearsOfExperience": 4 },
+      { "name": "Docker", "level": "Advanced", "yearsOfExperience": 3 },
+      { "name": "Redis", "level": "Advanced", "yearsOfExperience": 3 }
+    ],
+    "experience": [
+      {
+        "company": "Kasha",
+        "role": "Backend Engineer",
+        "startDate": "2020-09",
+        "endDate": "Present",
+        "description": "Built GraphQL API for e-commerce platform serving women across East Africa.",
+        "technologies": ["Node.js", "TypeScript", "GraphQL", "MongoDB"],
+        "isCurrent": true
+      },
+      {
+        "company": "Zipline",
+        "role": "Junior Backend Developer",
+        "startDate": "2018-11",
+        "endDate": "2020-08",
+        "description": "Built drone delivery tracking APIs.",
+        "technologies": ["Node.js", "MongoDB", "REST APIs"],
+        "isCurrent": false
+      }
+    ],
+    "education": [
+      {
+        "institution": "Carnegie Mellon University Africa",
+        "degree": "Masters",
+        "fieldOfStudy": "Information Technology",
+        "startYear": 2016,
+        "endYear": 2018
+      }
+    ],
+    "projects": [
+      {
+        "name": "GraphQL Boilerplate",
+        "description": "Production-ready GraphQL API boilerplate with auth, caching and monitoring.",
+        "technologies": ["Node.js", "TypeScript", "GraphQL", "Redis"],
+        "role": "Author",
+        "link": "https://github.com/frank-bizimana/graphql-boilerplate",
+        "startDate": "2021-06",
+        "endDate": "2021-09"
+      }
+    ],
+    "languages": [
+      { "name": "English", "proficiency": "Fluent" },
+      { "name": "Kinyarwanda", "proficiency": "Native" },
+      { "name": "French", "proficiency": "Fluent" }
+    ],
+    "availability": { "status": "Available", "type": "Full-time" },
+    "socialLinks": {
+      "github": "https://github.com/frank-bizimana",
+      "linkedin": "https://linkedin.com/in/frank-bizimana"
+    }
+  },
+  {
+    "firstName": "Grace",
+    "lastName": "Mutoni",
+    "email": "grace.mutoni@email.com",
+    "headline": "Backend Developer - Python & Node.js",
+    "bio": "Versatile backend developer with experience in both Python and Node.js ecosystems.",
+    "location": "Kigali, Rwanda",
+    "skills": [
+      { "name": "Node.js", "level": "Intermediate", "yearsOfExperience": 3 },
+      { "name": "Python", "level": "Advanced", "yearsOfExperience": 4 },
+      { "name": "MongoDB", "level": "Intermediate", "yearsOfExperience": 3 },
+      { "name": "REST APIs", "level": "Advanced", "yearsOfExperience": 4 },
+      { "name": "TypeScript", "level": "Beginner", "yearsOfExperience": 1 }
+    ],
+    "experience": [
+      {
+        "company": "RwandAir",
+        "role": "Backend Developer",
+        "startDate": "2021-04",
+        "endDate": "Present",
+        "description": "Built booking and reservation APIs for airline operations.",
+        "technologies": ["Node.js", "Python", "MongoDB"],
+        "isCurrent": true
+      }
+    ],
+    "education": [
+      {
+        "institution": "University of Rwanda",
+        "degree": "Bachelor",
+        "fieldOfStudy": "Information Systems",
+        "startYear": 2016,
+        "endYear": 2020
+      }
+    ],
+    "projects": [
+      {
+        "name": "Flight Tracker API",
+        "description": "Real-time flight tracking API with WebSocket support.",
+        "technologies": ["Node.js", "MongoDB", "WebSockets"],
+        "role": "Developer",
+        "link": "https://github.com/grace-mutoni/flight-tracker",
+        "startDate": "2022-02",
+        "endDate": "2022-07"
+      }
+    ],
+    "languages": [
+      { "name": "English", "proficiency": "Fluent" },
+      { "name": "Kinyarwanda", "proficiency": "Native" }
+    ],
+    "availability": { "status": "Open to Opportunities", "type": "Full-time" },
+    "socialLinks": {
+      "github": "https://github.com/grace-mutoni"
+    }
+  },
+  {
+    "firstName": "Henry",
+    "lastName": "Rukundo",
+    "email": "henry.rukundo@email.com",
+    "headline": "DevOps-Focused Backend Engineer - Docker & Kubernetes",
+    "bio": "Backend engineer with strong DevOps skills. Passionate about CI/CD, containerization and infrastructure as code.",
+    "location": "Kigali, Rwanda",
+    "skills": [
+      { "name": "Node.js", "level": "Advanced", "yearsOfExperience": 4 },
+      { "name": "TypeScript", "level": "Intermediate", "yearsOfExperience": 3 },
+      { "name": "Docker", "level": "Expert", "yearsOfExperience": 5 },
+      { "name": "Kubernetes", "level": "Advanced", "yearsOfExperience": 3 },
+      { "name": "MongoDB", "level": "Intermediate", "yearsOfExperience": 3 },
+      { "name": "Redis", "level": "Intermediate", "yearsOfExperience": 2 }
+    ],
+    "experience": [
+      {
+        "company": "Liquid Telecom Rwanda",
+        "role": "Backend & DevOps Engineer",
+        "startDate": "2019-07",
+        "endDate": "Present",
+        "description": "Manages Kubernetes clusters running 200+ microservices. Reduced deployment time by 70%.",
+        "technologies": ["Node.js", "Docker", "Kubernetes", "MongoDB"],
+        "isCurrent": true
+      }
+    ],
+    "education": [
+      {
+        "institution": "University of Rwanda",
+        "degree": "Bachelor",
+        "fieldOfStudy": "Computer Engineering",
+        "startYear": 2015,
+        "endYear": 2019
+      }
+    ],
+    "projects": [
+      {
+        "name": "K8s Auto-Scaler",
+        "description": "Custom Kubernetes autoscaling solution reducing infrastructure costs by 35%.",
+        "technologies": ["Node.js", "Docker", "Kubernetes"],
+        "role": "Lead",
+        "link": "https://github.com/henry-rukundo/k8s-autoscaler",
+        "startDate": "2021-03",
+        "endDate": "2021-09"
+      }
+    ],
+    "certifications": [
+      { "name": "Certified Kubernetes Administrator", "issuer": "CNCF", "issueDate": "2021-06" }
+    ],
+    "languages": [
+      { "name": "English", "proficiency": "Fluent" },
+      { "name": "Kinyarwanda", "proficiency": "Native" }
+    ],
+    "availability": { "status": "Available", "type": "Contract" },
+    "socialLinks": {
+      "github": "https://github.com/henry-rukundo",
+      "linkedin": "https://linkedin.com/in/henry-rukundo"
+    }
+  },
+  {
+    "firstName": "Iris",
+    "lastName": "Uwase",
+    "email": "iris.uwase@email.com",
+    "headline": "AI/ML Backend Engineer - Python & Node.js",
+    "bio": "Backend engineer specializing in AI/ML integrations. Built production ML pipelines and LLM-powered APIs.",
+    "location": "Kigali, Rwanda",
+    "skills": [
+      { "name": "Node.js", "level": "Advanced", "yearsOfExperience": 4 },
+      { "name": "TypeScript", "level": "Advanced", "yearsOfExperience": 3 },
+      { "name": "Python", "level": "Expert", "yearsOfExperience": 6 },
+      { "name": "MongoDB", "level": "Advanced", "yearsOfExperience": 4 },
+      { "name": "REST APIs", "level": "Expert", "yearsOfExperience": 5 },
+      { "name": "Docker", "level": "Intermediate", "yearsOfExperience": 2 }
+    ],
+    "experience": [
+      {
+        "company": "DataRwanda",
+        "role": "AI Backend Engineer",
+        "startDate": "2021-02",
+        "endDate": "Present",
+        "description": "Built LLM-powered APIs for automated document processing. Integrated GPT-4 and Gemini into production systems.",
+        "technologies": ["Node.js", "Python", "TypeScript", "MongoDB"],
+        "isCurrent": true
+      },
+      {
+        "company": "University of Rwanda",
+        "role": "Research Assistant",
+        "startDate": "2018-09",
+        "endDate": "2021-01",
+        "description": "Developed ML models for agricultural yield prediction.",
+        "technologies": ["Python", "TensorFlow", "REST APIs"],
+        "isCurrent": false
+      }
+    ],
+    "education": [
+      {
+        "institution": "Carnegie Mellon University Africa",
+        "degree": "Masters",
+        "fieldOfStudy": "Machine Learning",
+        "startYear": 2019,
+        "endYear": 2021
+      }
+    ],
+    "projects": [
+      {
+        "name": "LLM Document Processor",
+        "description": "Production API using Gemini to extract structured data from unstructured documents.",
+        "technologies": ["Node.js", "TypeScript", "Python", "Gemini API"],
+        "role": "Lead Engineer",
+        "link": "https://github.com/iris-uwase/llm-processor",
+        "startDate": "2022-06",
+        "endDate": "2022-12"
+      }
+    ],
+    "certifications": [
+      { "name": "Google Cloud ML Engineer", "issuer": "Google", "issueDate": "2022-04" }
+    ],
+    "languages": [
+      { "name": "English", "proficiency": "Fluent" },
+      { "name": "Kinyarwanda", "proficiency": "Native" }
+    ],
+    "availability": { "status": "Available", "type": "Full-time" },
+    "socialLinks": {
+      "github": "https://github.com/iris-uwase",
+      "linkedin": "https://linkedin.com/in/iris-uwase",
+      "portfolio": "https://iris-uwase.dev"
+    }
+  },
+  {
+    "firstName": "James",
+    "lastName": "Gahima",
+    "email": "james.gahima@email.com",
+    "headline": "Backend Engineer - Security & Authentication Specialist",
+    "bio": "Security-focused backend engineer. Expert in OAuth2, JWT, and API security best practices.",
+    "location": "Kigali, Rwanda",
+    "skills": [
+      { "name": "Node.js", "level": "Advanced", "yearsOfExperience": 5 },
+      { "name": "TypeScript", "level": "Advanced", "yearsOfExperience": 4 },
+      { "name": "MongoDB", "level": "Advanced", "yearsOfExperience": 4 },
+      { "name": "REST APIs", "level": "Expert", "yearsOfExperience": 5 },
+      { "name": "Docker", "level": "Intermediate", "yearsOfExperience": 2 }
+    ],
+    "experience": [
+      {
+        "company": "Access Bank Rwanda",
+        "role": "Senior Backend Engineer",
+        "startDate": "2020-03",
+        "endDate": "Present",
+        "description": "Built OAuth2 authentication system securing 50+ microservices. Zero security incidents in 3 years.",
+        "technologies": ["Node.js", "TypeScript", "MongoDB", "OAuth2", "JWT"],
+        "isCurrent": true
+      }
+    ],
+    "education": [
+      {
+        "institution": "University of Rwanda",
+        "degree": "Bachelor",
+        "fieldOfStudy": "Computer Science",
+        "startYear": 2015,
+        "endYear": 2019
+      }
+    ],
+    "projects": [
+      {
+        "name": "Auth Service",
+        "description": "Production-ready authentication microservice with OAuth2, MFA and audit logs.",
+        "technologies": ["Node.js", "TypeScript", "MongoDB", "Redis"],
+        "role": "Author",
+        "link": "https://github.com/james-gahima/auth-service",
+        "startDate": "2021-09",
+        "endDate": "2022-02"
+      }
+    ],
+    "certifications": [
+      { "name": "Certified Ethical Hacker", "issuer": "EC-Council", "issueDate": "2021-11" }
+    ],
+    "languages": [
+      { "name": "English", "proficiency": "Fluent" },
+      { "name": "Kinyarwanda", "proficiency": "Native" }
+    ],
+    "availability": { "status": "Open to Opportunities", "type": "Full-time" },
+    "socialLinks": {
+      "github": "https://github.com/james-gahima"
+    }
+  },
+  {
+    "firstName": "Karen",
+    "lastName": "Ingabire",
+    "email": "karen.ingabire@email.com",
+    "headline": "Junior Backend Developer - Recent Graduate",
+    "bio": "Recent computer science graduate with internship experience. Quick learner, strong problem-solving skills.",
+    "location": "Kigali, Rwanda",
+    "skills": [
+      { "name": "Node.js", "level": "Beginner", "yearsOfExperience": 1 },
+      { "name": "JavaScript", "level": "Intermediate", "yearsOfExperience": 2 },
+      { "name": "MongoDB", "level": "Beginner", "yearsOfExperience": 1 },
+      { "name": "Python", "level": "Intermediate", "yearsOfExperience": 2 }
+    ],
+    "experience": [
+      {
+        "company": "Klab Rwanda",
+        "role": "Backend Intern",
+        "startDate": "2023-09",
+        "endDate": "2024-03",
+        "description": "Built internal tools and REST APIs during 6-month internship.",
+        "technologies": ["Node.js", "MongoDB"],
+        "isCurrent": false
+      }
+    ],
+    "education": [
+      {
+        "institution": "University of Rwanda",
+        "degree": "Bachelor",
+        "fieldOfStudy": "Computer Science",
+        "startYear": 2019,
+        "endYear": 2023
+      }
+    ],
+    "projects": [
+      {
+        "name": "Task Manager API",
+        "description": "Simple task management REST API with user authentication.",
+        "technologies": ["Node.js", "MongoDB", "Express.js"],
+        "role": "Solo Developer",
+        "link": "https://github.com/karen-ingabire/task-manager",
+        "startDate": "2023-05",
+        "endDate": "2023-07"
+      }
+    ],
+    "languages": [
+      { "name": "English", "proficiency": "Fluent" },
+      { "name": "Kinyarwanda", "proficiency": "Native" }
+    ],
+    "availability": { "status": "Available", "type": "Full-time" },
+    "socialLinks": {
+      "github": "https://github.com/karen-ingabire"
+    }
+  },
+  {
+    "firstName": "Leo",
+    "lastName": "Niyonzima",
+    "email": "leo.niyonzima@email.com",
+    "headline": "Senior Backend Engineer - Real-time Systems & WebSockets",
+    "bio": "Specialized in real-time backend systems. Built chat, notifications and live data streaming platforms.",
+    "location": "Kigali, Rwanda",
+    "skills": [
+      { "name": "Node.js", "level": "Expert", "yearsOfExperience": 7 },
+      { "name": "TypeScript", "level": "Expert", "yearsOfExperience": 5 },
+      { "name": "MongoDB", "level": "Advanced", "yearsOfExperience": 6 },
+      { "name": "Redis", "level": "Expert", "yearsOfExperience": 5 },
+      { "name": "REST APIs", "level": "Expert", "yearsOfExperience": 7 },
+      { "name": "Docker", "level": "Advanced", "yearsOfExperience": 4 }
+    ],
+    "experience": [
+      {
+        "company": "Umurava",
+        "role": "Senior Backend Engineer",
+        "startDate": "2022-01",
+        "endDate": "Present",
+        "description": "Built real-time collaboration features for talent platform. Architected WebSocket infrastructure serving 100k concurrent users.",
+        "technologies": ["Node.js", "TypeScript", "MongoDB", "Redis", "WebSockets"],
+        "isCurrent": true
+      },
+      {
+        "company": "Norrsken House Kigali",
+        "role": "Backend Engineer",
+        "startDate": "2018-06",
+        "endDate": "2021-12",
+        "description": "Built APIs for 15+ startup clients across East Africa.",
+        "technologies": ["Node.js", "MongoDB", "REST APIs"],
+        "isCurrent": false
+      }
+    ],
+    "education": [
+      {
+        "institution": "University of Rwanda",
+        "degree": "Bachelor",
+        "fieldOfStudy": "Computer Science",
+        "startYear": 2014,
+        "endYear": 2018
+      }
+    ],
+    "projects": [
+      {
+        "name": "Real-time Notification Engine",
+        "description": "Scalable push notification system handling 1M+ notifications per day.",
+        "technologies": ["Node.js", "TypeScript", "Redis", "MongoDB", "WebSockets"],
+        "role": "Lead Engineer",
+        "link": "https://github.com/leo-niyonzima/notification-engine",
+        "startDate": "2022-06",
+        "endDate": "2023-01"
+      }
+    ],
+    "languages": [
+      { "name": "English", "proficiency": "Fluent" },
+      { "name": "Kinyarwanda", "proficiency": "Native" }
+    ],
+    "availability": { "status": "Available", "type": "Full-time" },
+    "socialLinks": {
+      "github": "https://github.com/leo-niyonzima",
+      "linkedin": "https://linkedin.com/in/leo-niyonzima"
+    }
+  },
+  {
+    "firstName": "Mary",
+    "lastName": "Umutoni",
+    "email": "mary.umutoni@email.com",
+    "headline": "Backend Developer - E-commerce & Payment Systems",
+    "bio": "4 years building e-commerce backends. Expert in payment gateway integrations across Africa.",
+    "location": "Kigali, Rwanda",
+    "skills": [
+      { "name": "Node.js", "level": "Advanced", "yearsOfExperience": 4 },
+      { "name": "TypeScript", "level": "Intermediate", "yearsOfExperience": 2 },
+      { "name": "MongoDB", "level": "Advanced", "yearsOfExperience": 4 },
+      { "name": "REST APIs", "level": "Advanced", "yearsOfExperience": 4 },
+      { "name": "Redis", "level": "Intermediate", "yearsOfExperience": 2 }
+    ],
+    "experience": [
+      {
+        "company": "Jumia Rwanda",
+        "role": "Backend Developer",
+        "startDate": "2020-08",
+        "endDate": "Present",
+        "description": "Built payment and order management APIs for largest e-commerce platform in Rwanda.",
+        "technologies": ["Node.js", "TypeScript", "MongoDB", "Redis"],
+        "isCurrent": true
+      }
+    ],
+    "education": [
+      {
+        "institution": "AUCA",
+        "degree": "Bachelor",
+        "fieldOfStudy": "Computer Science",
+        "startYear": 2016,
+        "endYear": 2020
+      }
+    ],
+    "projects": [
+      {
+        "name": "African Payment Gateway SDK",
+        "description": "Unified SDK for MTN MoMo, Airtel Money and card payments.",
+        "technologies": ["Node.js", "TypeScript", "MongoDB"],
+        "role": "Creator",
+        "link": "https://github.com/mary-umutoni/africa-payments",
+        "startDate": "2021-11",
+        "endDate": "2022-04"
+      }
+    ],
+    "languages": [
+      { "name": "English", "proficiency": "Fluent" },
+      { "name": "Kinyarwanda", "proficiency": "Native" }
+    ],
+    "availability": { "status": "Open to Opportunities", "type": "Full-time" },
+    "socialLinks": {
+      "github": "https://github.com/mary-umutoni"
+    }
+  },
+  {
+    "firstName": "Nathan",
+    "lastName": "Seburikoko",
+    "email": "nathan.seburikoko@email.com",
+    "headline": "Backend Engineer - Microservices & Event-Driven Architecture",
+    "bio": "6 years designing microservices and event-driven systems. Strong in Kafka, RabbitMQ and distributed patterns.",
+    "location": "Kigali, Rwanda",
+    "skills": [
+      { "name": "Node.js", "level": "Expert", "yearsOfExperience": 6 },
+      { "name": "TypeScript", "level": "Expert", "yearsOfExperience": 5 },
+      { "name": "MongoDB", "level": "Advanced", "yearsOfExperience": 5 },
+      { "name": "Docker", "level": "Expert", "yearsOfExperience": 5 },
+      { "name": "Redis", "level": "Advanced", "yearsOfExperience": 4 },
+      { "name": "REST APIs", "level": "Expert", "yearsOfExperience": 6 }
+    ],
+    "experience": [
+      {
+        "company": "Mastercard Foundation",
+        "role": "Senior Backend Engineer",
+        "startDate": "2020-11",
+        "endDate": "Present",
+        "description": "Built event-driven microservices for financial inclusion platform serving 2M+ users.",
+        "technologies": ["Node.js", "TypeScript", "MongoDB", "Docker", "Redis"],
+        "isCurrent": true
+      },
+      {
+        "company": "BK Tech House",
+        "role": "Backend Developer",
+        "startDate": "2017-09",
+        "endDate": "2020-10",
+        "description": "Built core APIs for Bank of Kigali digital products.",
+        "technologies": ["Node.js", "MongoDB", "REST APIs"],
+        "isCurrent": false
+      }
+    ],
+    "education": [
+      {
+        "institution": "University of Rwanda",
+        "degree": "Bachelor",
+        "fieldOfStudy": "Computer Science",
+        "startYear": 2013,
+        "endYear": 2017
+      }
+    ],
+    "projects": [
+      {
+        "name": "Event Bus Framework",
+        "description": "Lightweight event-driven framework for Node.js microservices.",
+        "technologies": ["Node.js", "TypeScript", "Redis"],
+        "role": "Author",
+        "link": "https://github.com/nathan-seburikoko/event-bus",
+        "startDate": "2021-07",
+        "endDate": "2021-12"
+      }
+    ],
+    "certifications": [
+      { "name": "AWS DevOps Engineer", "issuer": "Amazon", "issueDate": "2022-01" }
+    ],
+    "languages": [
+      { "name": "English", "proficiency": "Fluent" },
+      { "name": "Kinyarwanda", "proficiency": "Native" },
+      { "name": "French", "proficiency": "Conversational" }
+    ],
+    "availability": { "status": "Available", "type": "Full-time" },
+    "socialLinks": {
+      "github": "https://github.com/nathan-seburikoko",
+      "linkedin": "https://linkedin.com/in/nathan-seburikoko"
+    }
+  },
+  {
+    "firstName": "Olivia",
+    "lastName": "Iradukunda",
+    "email": "olivia.iradukunda@email.com",
+    "headline": "Backend Developer - Data Engineering & Analytics APIs",
+    "bio": "Backend developer with data engineering background. Builds high-performance data pipelines and analytics APIs.",
+    "location": "Kigali, Rwanda",
+    "skills": [
+      { "name": "Node.js", "level": "Advanced", "yearsOfExperience": 4 },
+      { "name": "TypeScript", "level": "Intermediate", "yearsOfExperience": 3 },
+      { "name": "MongoDB", "level": "Expert", "yearsOfExperience": 5 },
+      { "name": "REST APIs", "level": "Advanced", "yearsOfExperience": 4 },
+      { "name": "Python", "level": "Advanced", "yearsOfExperience": 5 },
+      { "name": "Docker", "level": "Intermediate", "yearsOfExperience": 2 }
+    ],
+    "experience": [
+      {
+        "company": "Rwanda Revenue Authority",
+        "role": "Data & Backend Engineer",
+        "startDate": "2019-10",
+        "endDate": "Present",
+        "description": "Built tax analytics APIs processing 10TB+ of financial data. Reduced report generation time from hours to seconds.",
+        "technologies": ["Node.js", "Python", "MongoDB", "TypeScript"],
+        "isCurrent": true
+      }
+    ],
+    "education": [
+      {
+        "institution": "University of Rwanda",
+        "degree": "Bachelor",
+        "fieldOfStudy": "Statistics and Data Science",
+        "startYear": 2015,
+        "endYear": 2019
+      }
+    ],
+    "projects": [
+      {
+        "name": "Tax Analytics Dashboard API",
+        "description": "Real-time analytics API for tax revenue visualization and forecasting.",
+        "technologies": ["Node.js", "Python", "MongoDB", "TypeScript"],
+        "role": "Lead Developer",
+        "link": "https://github.com/olivia-iradukunda/tax-analytics",
+        "startDate": "2020-06",
+        "endDate": "2021-02"
+      }
+    ],
+    "languages": [
+      { "name": "English", "proficiency": "Fluent" },
+      { "name": "Kinyarwanda", "proficiency": "Native" },
+      { "name": "French", "proficiency": "Fluent" }
+    ],
+    "availability": { "status": "Open to Opportunities", "type": "Full-time" },
+    "socialLinks": {
+      "github": "https://github.com/olivia-iradukunda",
+      "linkedin": "https://linkedin.com/in/olivia-iradukunda"
+    }
+  }
+]

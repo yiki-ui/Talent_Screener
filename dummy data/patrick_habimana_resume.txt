@@ -1,0 +1,127 @@
+PATRICK HABIMANA
+Senior Backend Engineer | Node.js | Distributed Systems
+
+Kigali, Rwanda | patrick.habimana@gmail.com | +250 788 123 456 | linkedin.com/in/patrickhabimana | github.com/phabimana
+
+================================================================================
+PROFESSIONAL SUMMARY
+================================================================================
+
+Results-driven Senior Backend Engineer with 8 years of experience designing, building, and scaling distributed systems for high-growth technology companies across East Africa. Proven expertise in microservices architecture, cloud infrastructure, and database optimization. Led the successful migration of a monolithic fintech platform to microservices, improving system throughput by 300% and reducing latency by 60%. Strong track record of mentoring engineering teams and driving technical excellence. AWS Certified Solutions Architect with deep hands-on experience in Node.js, TypeScript, and modern backend technologies.
+
+================================================================================
+WORK EXPERIENCE
+================================================================================
+
+ANDELA RWANDA — Senior Backend Engineer
+Kigali, Rwanda | January 2021 – Present
+
+• Architected and built a distributed payment processing microservices platform using Node.js, TypeScript, and gRPC, handling 2M+ daily transactions across 5 countries
+• Led a team of 6 backend engineers through the complete migration from a monolithic PHP application to 40+ containerized microservices on AWS ECS, reducing deployment time from 4 hours to 15 minutes
+• Designed and implemented an event-driven architecture using Apache Kafka and Redis Streams for real-time transaction reconciliation, achieving 99.99% data consistency
+• Optimized PostgreSQL query performance and implemented read replicas, reducing average API response time from 800ms to 120ms
+• Established CI/CD pipelines with GitHub Actions, Docker, and Terraform, improving deployment frequency from weekly to multiple times per day
+• Mentored 4 junior engineers through structured code reviews, pair programming, and technical workshops; 2 promoted to mid-level within 18 months
+• Implemented distributed tracing with Jaeger and centralized logging with ELK stack, reducing mean time to resolution (MTTR) for production incidents by 70%
+
+HEHE LTD — Backend Engineer
+Kigali, Rwanda | March 2018 – December 2020
+
+• Developed RESTful APIs and backend services for a logistics platform connecting 500+ transport providers across East Africa using Node.js, Express, and MongoDB
+• Built a real-time GPS tracking and route optimization engine using Redis Geospatial indexes and Google Maps APIs, improving delivery efficiency by 35%
+• Designed MongoDB sharding strategy to handle 50M+ location data points monthly, ensuring sub-second query performance
+• Integrated multiple payment gateways including M-Pesa, MTN Mobile Money, and card processors, processing $2M+ in monthly transactions
+• Implemented OAuth 2.0 and JWT-based authentication with role-based access control (RBAC) for B2B and B2C user segments
+• Collaborated with frontend and mobile teams to define API contracts using OpenAPI/Swagger, reducing integration bugs by 45%
+• Participated in 24/7 on-call rotation, maintaining 99.95% uptime SLA for critical payment and tracking services
+
+IGIRE RWANDA — Junior Software Developer
+Kigali, Rwanda | July 2017 – February 2018
+
+• Contributed to the development of an educational technology platform serving 10,000+ students across Rwandan schools
+• Built backend features using Node.js and PostgreSQL, including user management, content delivery, and progress tracking modules
+• Developed automated test suites using Jest and Mocha, achieving 85% code coverage across backend services
+• Assisted in database schema design and migration scripts for PostgreSQL deployments
+• Participated in agile ceremonies including daily standups, sprint planning, and retrospectives
+
+================================================================================
+EDUCATION
+================================================================================
+
+UNIVERSITY OF RWANDA
+Bachelor of Science in Computer Engineering | Kigali, Rwanda | Graduated 2017
+• GPA: 3.8/4.0 | Dean's List (All Semesters)
+• Relevant Coursework: Distributed Systems, Database Management, Software Engineering, Computer Networks, Algorithms & Data Structures
+• Capstone Project: "Real-Time Public Transport Tracking System" — Built GPS tracking backend with Node.js and WebSockets, deployed on AWS
+
+AWS CERTIFIED SOLUTIONS ARCHITECT – ASSOCIATE
+Amazon Web Services | Issued 2020 | Valid through 2026
+
+================================================================================
+TECHNICAL SKILLS
+================================================================================
+
+Languages & Frameworks:
+• Node.js, TypeScript, JavaScript, Python (proficient)
+• Express.js, NestJS, Fastify, GraphQL (Apollo Server)
+
+Databases & Caching:
+• PostgreSQL, MongoDB, Redis, Elasticsearch, DynamoDB
+• Database design, query optimization, indexing strategies, sharding
+
+Cloud & Infrastructure:
+• AWS (ECS, Lambda, RDS, S3, CloudWatch, IAM, VPC, API Gateway)
+• Docker, Kubernetes, Terraform, Ansible
+• CI/CD: GitHub Actions, GitLab CI, Jenkins
+
+Messaging & Streaming:
+• Apache Kafka, Redis Streams, RabbitMQ, AWS SQS/SNS
+
+Monitoring & Observability:
+• Prometheus, Grafana, Jaeger, ELK Stack, Datadog
+
+Tools & Practices:
+• Git, GitHub, GitLab, Jira, Confluence
+• Agile/Scrum, Test-Driven Development (TDD), Domain-Driven Design (DDD)
+• Microservices, Event-Driven Architecture, CQRS, Saga Pattern
+
+================================================================================
+PROJECTS
+================================================================================
+
+E-WALLET MICROSERVICES PLATFORM (Open Source)
+github.com/phabimana/ewallet-microservices
+• Built a reference implementation of an e-wallet system using microservices architecture
+• Technologies: Node.js, TypeScript, NestJS, PostgreSQL, Redis, Kafka, Docker, Kubernetes
+• Features: User onboarding, KYC verification, wallet management, P2P transfers, transaction history
+• Implemented saga pattern for distributed transactions and eventual consistency
+• 500+ GitHub stars, used by 3 local fintech startups as reference architecture
+
+REAL-TIME CHAT INFRASTRUCTURE
+• Designed and built a scalable real-time messaging backend supporting 100K concurrent connections
+• Technologies: Node.js, Socket.io, Redis Pub/Sub, MongoDB, AWS ALB
+• Implemented message persistence, delivery receipts, and end-to-end encryption using Signal Protocol
+• Load tested with Artillery.io, achieving 50K messages/second throughput
+
+API GATEWAY & RATE LIMITING SERVICE
+• Developed a custom API gateway with dynamic rate limiting, request routing, and authentication
+• Technologies: Node.js, Express, Redis (sliding window algorithm), PostgreSQL
+• Features: JWT validation, API key management, request/response transformation, caching layer
+• Reduced backend load by 40% through intelligent caching and request coalescing
+
+================================================================================
+LANGUAGES
+================================================================================
+
+• English (Professional Working Proficiency)
+• Kinyarwanda (Native)
+• French (Conversational)
+• Swahili (Basic)
+
+================================================================================
+REFERENCES
+================================================================================
+
+Available upon request.
+
+================================================================================

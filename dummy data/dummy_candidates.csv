@@ -1,0 +1,11 @@
+﻿#,Candidate,Location,Years,Skill Level,Key Stack
+1,**Patrick Habimana**,"Kigali, Rwanda",8,**Strong match**,"Node.js, TypeScript, MongoDB, PostgreSQL, Redis, Docker, Kubernetes, AWS, GraphQL, Microservices"
+2,**Amina Omondi**,"Nairobi, Kenya",5,**Mid match**,"Python, Django, PostgreSQL, REST APIs — financial services focus"
+3,**Jean Ndayisaba**,"Bujumbura, Burundi",6,**Mid match**,"Java, Spring Boot — enterprise/telecom, strong but different stack"
+4,**Sarah Mwangi**,"Nairobi, Kenya",4,**Weak match**,"Full stack MERN — frontend-heavy, less backend depth"
+5,**David Mugisha**,"Kampala, Uganda",7,**Strong match**,"Go, Rust, Kafka, Kubernetes — high-performance systems"
+6,**Fatuma Hassan**,"Dar es Salaam, Tanzania",2,**Weak match**,"PHP, Laravel, jQuery — junior, legacy stack"
+7,**Emmanuel Nsengiyumva**,"Kigali, Rwanda",5,**Mid match**,"C#, .NET Core, Azure — Microsoft stack"
+8,**Grace Akello**,"Kampala, Uganda",6,**Weak match**,"DevOps/infrastructure — Python scripting, not app architecture"
+9,**James Kamau**,"Nairobi, Kenya",4,**Mid match**,"Ruby on Rails — fintech, payment integrations"
+10,**Marie Uwase**,"Kigali, Rwanda",7,**Strong match**,"Node.js, TypeScript, Kafka, Elasticsearch — lead engineer, mobility"
