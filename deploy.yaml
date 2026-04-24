@@ -1,0 +1,16 @@
+name: Auto Deploy
+
+on:
+  push:
+    branches: [main]
+
+jobs:
+  # Koyeb auto-deploys on push if GitHub integration is set
+  # Vercel auto-deploys on push if connected
+  
+  # Optional: Notify on deploy
+  notify:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Deployment triggered
+        run: echo "Koyeb and Vercel will auto-deploy from main branch"

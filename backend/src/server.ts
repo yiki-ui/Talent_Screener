@@ -19,15 +19,25 @@ connectDB();
 
 app.use(helmet());
 app.use(cors({
-  origin: process.env.FRONTEND_URL || 'http://localhost:3000',
+  origin: [
+    process.env.FRONTEND_URL || 'http://localhost:3000',
+    'https://*.vercel.app',           // allow all Vercel deployments
+    'http://localhost:3000',
+  ],
   credentials: true,
 }));
 app.use(morgan('dev'));
 app.use(express.json({ limit: '50mb' }));
 app.use(express.urlencoded({ extended: true, limit: '50mb' }));
 
+// Health check for Koyeb (at root path — Docker HEALTHCHECK hits /health)
+app.get('/health', (req: any, res: any) => {
+  res.status(200).json({ status: 'ok', timestamp: new Date().toISOString() });
+});
+
+// Also keep API health check for consistency
 app.get('/api/health', (req: any, res: any) => {
-  res.json({ status: 'ok', timestamp: new Date().toISOString() });
+  res.status(200).json({ status: 'ok', timestamp: new Date().toISOString() });
 });
 
 app.use('/api/jobs', jobRoutes);
